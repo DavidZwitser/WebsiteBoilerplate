@@ -1,7 +1,7 @@
 {
-  "name": "WebsiteBoilerplate",
+  "name": "--Project name--",
   "version": "1.0.0",
-  "description": "My website boilerplate",
+  "description": "--Project description--",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DavidZwitser/WebsiteBoilerplate.git"
+    "url": "git+https://github.com/DavidZwitser/--project_name--.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DavidZwitser/WebsiteBoilerplate/issues"
+    "url": "https://github.com/DavidZwitser/--project_name--/issues"
   },
-  "homepage": "https://github.com/DavidZwitser/WebsiteBoilerplate#readme",
+  "homepage": "https://github.com/DavidZwitser/--project_name--#readme",
   "devDependencies": {
     "@types/react": "^16.14.4",
     "@types/react-dom": "^16.9.11",
