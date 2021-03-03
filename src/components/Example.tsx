@@ -15,8 +15,8 @@ export const Example: React.FC<ExampleProps> = ({}) => {
 
     return (
         <div id = "example">
-            <h1 id = "example_text">Hello {count !== 0 && appendix}</h1>
-            <button id = "example_button" onClick = {() => setCount(count + 1)}>Hello</button>
+            <h1 id = "example__text">Hello {count !== 0 && appendix}</h1>
+            <button id = "example__button" onClick = {() => setCount(count + 1)}>Hello</button>
         </div>
     );
 }
